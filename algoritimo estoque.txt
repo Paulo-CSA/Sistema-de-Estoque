@@ -1,0 +1,23 @@
+Inicio do algoritimo
+
+mostra opções
+verifica escolha 1-4
+1 - criar login
+2 - passa credenciais
+3 - consulta usuarios cadastrados
+4 - sair (fim do programa)
+se escolha 1 cria usuário e retorna para opções
+se escolha 2 loga e passa para o proxima etapa
+se escolha 3 mostra usuários e retorna para opções
+se escolha 4 sai do programa 
+verifica as credenciais
+mostra novas opções
+1 - mostra estoque e retorna para opções
+2 - cria item e retorna para opções
+3 - remove item e retorna para opções
+4 - add qnt de itens aos existentes e retorna para opções
+5 - remove qnt de itens aos existentes e retorna para opções
+6 - sair (fim do programa)
+
+Fim do algoritimo 
+
